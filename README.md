@@ -10,7 +10,7 @@
 
 I'm a **Full Stack Java Developer** with over **8 years of experience** in designing, developing, and testing enterprise-level web and client/server applications. I specialize in building **scalable microservices** and crafting dynamic, responsive user interfaces. My expertise spans across industries like **healthcare, retail, and finance**, where I have delivered high-performance solutions that drive business growth.
 
-<img src="https://via.placeholder.com/800x400" alt="Developer Banner" style="width:100%; height:auto; margin-bottom:20px;">
+
 
 ---
 
@@ -56,7 +56,7 @@ I'm a **Full Stack Java Developer** with over **8 years of experience** in desig
 - Integrated Swagger for documenting RESTful APIs.
 - Configured cloud infrastructure using AWS VPC, EC2, and S3.
 
-<img src="https://via.placeholder.com/600x300" alt="Projects Preview" style="width:100%; height:auto; margin-top:20px;">
+
 
 ---
 
@@ -93,7 +93,7 @@ I'm a **Full Stack Java Developer** with over **8 years of experience** in desig
 - I thrive in collaborative, fast-paced environments and enjoy solving complex problems.
 - Passionate about learning new technologies and applying them to create impactful solutions.
 
-<img src="https://via.placeholder.com/500x250" alt="Tech Enthusiast" style="width:100%; height:auto; margin-top:20px;">
+
 
 ---
 
