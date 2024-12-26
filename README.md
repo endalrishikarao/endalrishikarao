@@ -10,31 +10,32 @@
 
 I'm a **Full Stack Java Developer** with over **8 years of experience** in designing, developing, and testing enterprise-level web and client/server applications. I specialize in building **scalable microservices** and crafting dynamic, responsive user interfaces. My expertise spans across industries like **healthcare, retail, and finance**, where I have delivered high-performance solutions that drive business growth.
 
+<img src="https://via.placeholder.com/800x400" alt="Developer Banner" style="width:100%; height:auto; margin-bottom:20px;">
+
 ---
 
 ### 🚀 Professional Skills
 
 #### **Frontend Development**:
-- React.js, Angular, HTML5, CSS3, Bootstrap
+- <img src="https://img.shields.io/badge/-React-blue" alt="React" style="height:20px;"> <img src="https://img.shields.io/badge/-Angular-red" alt="Angular" style="height:20px;"> <img src="https://img.shields.io/badge/-HTML5-orange" alt="HTML5" style="height:20px;">
 - Expertise in **React Hooks**, Redux, and state management
 - Built reusable, responsive components with styled-components
 
 #### **Backend Development**:
-- Java 11+, Spring Boot, Spring MVC, REST APIs, Hibernate
+- <img src="https://img.shields.io/badge/-Java-blue" alt="Java" style="height:20px;"> <img src="https://img.shields.io/badge/-Spring-green" alt="Spring" style="height:20px;"> <img src="https://img.shields.io/badge/-REST%20APIs-yellow" alt="REST APIs" style="height:20px;">
 - Microservices architecture with Spring Cloud
 - Experience with Kafka, GraphQL, and SOAP APIs
 
 #### **Cloud & DevOps**:
-- AWS (EC2, S3, Elastic Beanstalk, RDS, DynamoDB)
-- Docker and Kubernetes for containerization and orchestration
+- <img src="https://img.shields.io/badge/-AWS-orange" alt="AWS" style="height:20px;"> <img src="https://img.shields.io/badge/-Docker-blue" alt="Docker" style="height:20px;"> <img src="https://img.shields.io/badge/-Kubernetes-lightblue" alt="Kubernetes" style="height:20px;">
 - CI/CD pipelines using Jenkins, GitLab CI
 
 #### **Database Management**:
-- MySQL, Oracle, MongoDB, DB2, DynamoDB
+- <img src="https://img.shields.io/badge/-MySQL-blue" alt="MySQL" style="height:20px;"> <img src="https://img.shields.io/badge/-Oracle-red" alt="Oracle" style="height:20px;"> <img src="https://img.shields.io/badge/-MongoDB-green" alt="MongoDB" style="height:20px;">
 - Extensive use of JPA/Hibernate for database operations
 
 #### **Programming Languages**:
-- Java, JavaScript, TypeScript, Python, C, C++
+- <img src="https://img.shields.io/badge/-Java-blue" alt="Java" style="height:20px;"> <img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript" style="height:20px;"> <img src="https://img.shields.io/badge/-TypeScript-lightblue" alt="TypeScript" style="height:20px;"> <img src="https://img.shields.io/badge/-Python-green" alt="Python" style="height:20px;">
 
 ---
 
@@ -54,6 +55,8 @@ I'm a **Full Stack Java Developer** with over **8 years of experience** in desig
 - Built dynamic web applications with React.js and Spring Boot.
 - Integrated Swagger for documenting RESTful APIs.
 - Configured cloud infrastructure using AWS VPC, EC2, and S3.
+
+<img src="https://via.placeholder.com/600x300" alt="Projects Preview" style="width:100%; height:auto; margin-top:20px;">
 
 ---
 
@@ -90,9 +93,10 @@ I'm a **Full Stack Java Developer** with over **8 years of experience** in desig
 - I thrive in collaborative, fast-paced environments and enjoy solving complex problems.
 - Passionate about learning new technologies and applying them to create impactful solutions.
 
+<img src="https://via.placeholder.com/500x250" alt="Tech Enthusiast" style="width:100%; height:auto; margin-top:20px;">
+
 ---
 
 ### 💌 Let’s Connect!
 
 Feel free to reach out for collaborations or discussions on exciting tech projects!
-
